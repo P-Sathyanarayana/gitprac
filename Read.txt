@@ -1,4 +1,5 @@
 line 1
 line 2
-line 3
-line 4
+line 3 in remote(separate)
+line 4 in local(separate)
+line 5 from remote(simultaneously)
